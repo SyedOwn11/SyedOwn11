@@ -8,5 +8,5 @@
 - 💬 Ask me about Python Programming, C++ or any other basic progamming language
 - 📫 How to reach me: LinkedIn www.linkedin.com/in/syed-own-2184ab252
 - 😄 Pronouns: He/His
-<-- - ⚡ Fun fact: 
+<!-- - ⚡ Fun fact: 
 -->
